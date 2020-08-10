@@ -1,10 +1,10 @@
 
 <h1 align="center">
-    APP Encurtador
+    Tik-Tok-Clone
 </h1>
   
 <h4 align="center">
-  Uma Aplicação que encurta os suas url's 
+  Clone Tik-Tok
 </h4>
 
 <p align="center">
