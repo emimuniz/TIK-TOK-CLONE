@@ -35,3 +35,6 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
  
 - React Hooks 
+- Material UI
+- Firebase (database)
+- UseRef Hooks
